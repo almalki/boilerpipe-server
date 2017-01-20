@@ -1,0 +1,5 @@
+src/main/resources
+bin
+out/production/boilerpipe
+out/test/boilerpipe
+build/deps

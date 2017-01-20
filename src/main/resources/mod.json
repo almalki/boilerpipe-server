@@ -1,0 +1,7 @@
+{
+
+  // Java verticle
+  "main":"com.dwwen.boilerpipe.ArticleExtractionVerticle",
+  "auto-redeploy": true
+
+}

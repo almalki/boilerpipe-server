@@ -1,0 +1,5 @@
+https://github.com/vanduynslagerp/boilerpipe
+
+HTML extractor from
+https://github.com/Netbreeze-GmbH/boilerpipe
+
